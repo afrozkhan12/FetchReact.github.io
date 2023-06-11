@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fetchReact.github.io/static/css/main.4da62354.css",
+    "main.js": "/fetchReact.github.io/static/js/main.0175b73a.js",
+    "index.html": "/fetchReact.github.io/index.html",
+    "main.4da62354.css.map": "/fetchReact.github.io/static/css/main.4da62354.css.map",
+    "main.0175b73a.js.map": "/fetchReact.github.io/static/js/main.0175b73a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da62354.css",
+    "static/js/main.0175b73a.js"
+  ]
+}
